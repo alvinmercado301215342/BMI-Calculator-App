@@ -1,9 +1,10 @@
 //
-//  SceneDelegate.swift
+//  ViewController.swift
 //  BMI Calculator App
 //
 //  Created by Alvin Carl Mercado on 2021-12-17.
-//
+//  Student ID: 301215342
+//  Added calculation function
 
 import UIKit
 
